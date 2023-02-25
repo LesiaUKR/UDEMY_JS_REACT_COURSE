@@ -1,3 +1,5 @@
+"use strict";
+
 //Operator precedence
 //https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
 
